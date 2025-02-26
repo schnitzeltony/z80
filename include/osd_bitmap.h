@@ -10,6 +10,7 @@
 #define	_OSD_BITMAP_H_INCLUDED_
 
 #include "system.h"
+#include "osd.h"
 
 /** @brief Defines the osd_bitmap_t type */
 typedef struct osd_bitmap_s {
